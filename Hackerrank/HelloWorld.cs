@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hackerrank
+namespace 30DaysofCode
 {
     class Solution
     {

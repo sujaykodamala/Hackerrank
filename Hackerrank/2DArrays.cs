@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Hackerrank
+namespace 30DaysofCode
 {
     class _2DArrays
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Hackerrank
+namespace 30DaysofCode
 {
     class IntroToConditionals
     {

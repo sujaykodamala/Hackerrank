@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Hackerrank
+namespace 30DaysofCode
 {
     class DataTypes
     {
@@ -11,7 +11,7 @@ namespace Hackerrank
         {
             int i = 4;
             double d = 4.0;
-            string s = "Hackerrank";
+            string s = "30DaysofCode";
             int j = Convert.ToInt32(Console.ReadLine());
             double e = Convert.ToDouble(Console.ReadLine());
             string x = Convert.ToString(Console.ReadLine());
