@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace 30DaysofCode
+namespace ThirtyDaysofCode
 {
     class Solution
     {

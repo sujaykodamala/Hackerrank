@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 30DaysofCode
+namespace ThirtyDaysofCode
 {
     class Loops
     {

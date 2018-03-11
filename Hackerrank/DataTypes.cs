@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 30DaysofCode
+namespace ThirtyDaysofCode
 {
     class DataTypes
     {
@@ -11,7 +11,7 @@ namespace 30DaysofCode
         {
             int i = 4;
             double d = 4.0;
-            string s = "30DaysofCode";
+            string s = "ThirtyDaysofCode";
             int j = Convert.ToInt32(Console.ReadLine());
             double e = Convert.ToDouble(Console.ReadLine());
             string x = Convert.ToString(Console.ReadLine());
